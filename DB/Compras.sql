@@ -1,0 +1,15 @@
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (1, 1, '2021-01-18 12:01:18', 801.45);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (2, 2, '2020-05-27 07:28:16', 361.99);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (3, 3, '2020-08-01 18:30:39', 309.44);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (4, 2, '2020-10-09 17:41:48', 1106.29);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (5, 3, '2019-07-11 17:40:35', 638.07);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (6, 1, '2019-10-18 13:13:51', 583.04);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (7, 1, '2020-11-21 04:14:46', 912.45);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (8, 1, '2019-10-22 14:14:17', 1184.42);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (9, 2, '2020-02-04 22:58:56', 1045.41);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (10, 3, '2020-01-24 13:51:28', 110.3);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (11, 1, '2020-11-04 21:37:54', 1054.56);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (12, 2, '2021-02-28 10:46:04', 683.65);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (13, 2, '2019-11-12 17:21:02', 1065.17);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (14, 2, '2020-10-25 08:13:39', 11.98);
+insert into Compras (idCompra, userID, fechaHoraCompra, totalCompra) values (15, 1, '2021-01-02 13:29:18', 717.56);
